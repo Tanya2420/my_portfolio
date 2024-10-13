@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#projects .card {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    font-size: 14px;
+}
